@@ -2,6 +2,8 @@
 
 <img src="./assets/hero.svg" width="100%" alt="tapaixx — 次のインターフェースをつくる" />
 
+<img src="./assets/tap-mark.svg" width="94" alt="TAP エンブレム" />
+
 <br />
 
 **独立した開発。オープンな発想。実用的なツール。**
