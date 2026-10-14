@@ -2,6 +2,8 @@
 
 <img src="./assets/hero.svg" width="100%" alt="tapaixx — 面向未来的工程实践" />
 
+<img src="./assets/tap-mark.svg" width="94" alt="TAP 标志" />
+
 <br />
 
 **独立开发 · 开放理念 · 打造真正好用的工具**
