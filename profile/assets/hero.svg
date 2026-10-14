@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="380" viewBox="0 0 1280 380" role="img" aria-labelledby="title desc">
+<title id="title">tapaixx — Engineering the next interface</title><desc id="desc">A luminous futuristic circuit horizon and tapaixx wordmark in cyan and violet.</desc>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#080f20"/><stop offset=".5" stop-color="#101534"/><stop offset="1" stop-color="#111024"/></linearGradient>
+<linearGradient id="neon" x2="1" y2=".3"><stop stop-color="#7cf7ff"/><stop offset=".5" stop-color="#80aaff"/><stop offset="1" stop-color="#ba8cff"/></linearGradient>
+<linearGradient id="fade" x2="0" y2="1"><stop stop-color="#6be6f5" stop-opacity=".7"/><stop offset="1" stop-color="#6be6f5" stop-opacity="0"/></linearGradient>
+<radialGradient id="glow"><stop stop-color="#65c7fc" stop-opacity=".22"/><stop offset="1" stop-color="#65c7fc" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M42 0H0V42" fill="none" stroke="#42648b" stroke-width=".6" opacity=".32"/></pattern>
+<filter id="bloom"><feGaussianBlur stdDeviation="15"/></filter>
+</defs>
+<rect width="1280" height="380" rx="22" fill="url(#bg)"/><rect width="1280" height="380" rx="22" fill="url(#grid)"/>
+<ellipse cx="982" cy="184" rx="320" ry="240" fill="url(#glow)"/>
+<circle cx="1022" cy="175" r="111" fill="none" stroke="#3dddf5" stroke-width="1.4" opacity=".58"/>
+<circle cx="1022" cy="175" r="85" fill="none" stroke="#9989f9" stroke-dasharray="5 12" stroke-width="2"/>
+<circle cx="1022" cy="175" r="54" fill="none" stroke="#77e9ff" stroke-width="2" opacity=".9"/>
+<path d="M1022 55V295M902 175H1142M932 85L1112 265M1112 85L932 265" stroke="#4db8df" stroke-opacity=".28"/>
+<path d="M831 205h95l36-36h116l46-46h112M835 238h116l25 25h85l41-41h126M875 106h76l33 33h116l36-36h100" stroke="url(#neon)" stroke-width="2" fill="none" opacity=".84"/>
+<path d="M831 205h95l36-36h116l46-46h112" stroke="#6cf0ff" stroke-width="5" opacity=".25" filter="url(#bloom)" fill="none"/>
+<g fill="#8dedff"><circle cx="831" cy="205" r="4"/><circle cx="1078" cy="169" r="3.5"/><circle cx="1124" cy="123" r="4"/><circle cx="975" cy="263" r="3.5"/><circle cx="951" cy="106" r="3.5"/></g>
+<g font-family="monospace" fill="#6b9ab3" font-size="12" letter-spacing="2"><text x="68" y="63">T//  SYSTEM ONLINE</text><text x="1000" y="55">00 — 26</text><text x="68" y="342">BUILD  •  SHIP  •  ITERATE</text><text x="1080" y="339">[ OPEN ]</text></g>
+<path d="M68 87h42" stroke="#70f1ff" stroke-width="3"/>
+<text x="64" y="209" font-family="Arial,Helvetica,sans-serif" font-size="105" font-weight="800" letter-spacing="-5" fill="#7cf7ff" opacity=".28" filter="url(#bloom)">tapaixx</text>
+<text x="64" y="209" font-family="Arial,Helvetica,sans-serif" font-size="105" font-weight="800" letter-spacing="-5" fill="url(#neon)">tapaixx</text>
+<text x="70" y="258" font-family="Arial,Helvetica,sans-serif" font-size="22" fill="#d4e9fa" letter-spacing="2">ENGINEERING THE NEXT INTERFACE</text>
+<text x="70" y="293" font-family="monospace" font-size="14" fill="#92abc3">AI SYSTEMS   /   DEVELOPER TOOLS   /   NATIVE EXPERIENCES</text>
+<rect x="1" y="1" width="1278" height="378" rx="21" fill="none" stroke="#4e7fba" stroke-opacity=".45"/>
+</svg>
