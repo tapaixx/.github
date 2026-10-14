@@ -4,6 +4,7 @@ This repository powers the public profile of [tapaixx](https://github.com/tapaix
 
 - **Main profile (English):** [profile/README.md](profile/README.md)
 - **简体中文:** [profile/README.zh-CN.md](profile/README.zh-CN.md)
+- **繁體中文:** [profile/README.zh-TW.md](profile/README.zh-TW.md)
 - **日本語:** [profile/README.ja.md](profile/README.ja.md)
 - **Visual assets:** [profile/assets](profile/assets)
 
