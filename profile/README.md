@@ -16,7 +16,7 @@
 
 <br />
 
-**English** &nbsp;·&nbsp; [简体中文](https://github.com/tapaixx/.github/blob/main/profile/README.zh-CN.md) &nbsp;·&nbsp; [日本語](https://github.com/tapaixx/.github/blob/main/profile/README.ja.md)
+**English** &nbsp;·&nbsp; [简体中文](https://github.com/tapaixx/.github/blob/main/profile/README.zh-CN.md) &nbsp;·&nbsp; [繁體中文](https://github.com/tapaixx/.github/blob/main/profile/README.zh-TW.md) &nbsp;·&nbsp; [日本語](https://github.com/tapaixx/.github/blob/main/profile/README.ja.md)
 
 </div>
 
