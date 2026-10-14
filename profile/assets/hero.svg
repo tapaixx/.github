@@ -1,27 +1,51 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="380" viewBox="0 0 1280 380" role="img" aria-labelledby="title desc">
-<title id="title">tapaixx — Engineering the next interface</title><desc id="desc">A luminous futuristic circuit horizon and tapaixx wordmark in cyan and violet.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="440" viewBox="0 0 1440 440" role="img" aria-labelledby="title desc">
+<title id="title">tapaixx — Engineering the next interface</title>
+<desc id="desc">Futuristic TAP monogram and tapaixx wordmark in neon cyan, electric blue, and violet on a dark technical grid.</desc>
 <defs>
-<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#080f20"/><stop offset=".5" stop-color="#101534"/><stop offset="1" stop-color="#111024"/></linearGradient>
-<linearGradient id="neon" x2="1" y2=".3"><stop stop-color="#7cf7ff"/><stop offset=".5" stop-color="#80aaff"/><stop offset="1" stop-color="#ba8cff"/></linearGradient>
-<linearGradient id="fade" x2="0" y2="1"><stop stop-color="#6be6f5" stop-opacity=".7"/><stop offset="1" stop-color="#6be6f5" stop-opacity="0"/></linearGradient>
-<radialGradient id="glow"><stop stop-color="#65c7fc" stop-opacity=".22"/><stop offset="1" stop-color="#65c7fc" stop-opacity="0"/></radialGradient>
-<pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M42 0H0V42" fill="none" stroke="#42648b" stroke-width=".6" opacity=".32"/></pattern>
-<filter id="bloom"><feGaussianBlur stdDeviation="15"/></filter>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#050916"/><stop offset=".55" stop-color="#0B1530"/><stop offset="1" stop-color="#17102F"/></linearGradient>
+ <linearGradient id="metal" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#2A3B5C"/><stop offset=".24" stop-color="#131D38"/><stop offset=".76" stop-color="#080F23"/><stop offset="1" stop-color="#1E2546"/></linearGradient>
+ <linearGradient id="neon" x1="0" y1=".2" x2="1" y2=".85"><stop stop-color="#43F4FF"/><stop offset=".42" stop-color="#138DFF"/><stop offset=".8" stop-color="#A962FF"/><stop offset="1" stop-color="#EA46FF"/></linearGradient>
+ <linearGradient id="mark" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#60FFFF"/><stop offset=".48" stop-color="#268FFF"/><stop offset="1" stop-color="#C64FFF"/></linearGradient>
+ <radialGradient id="glow"><stop stop-color="#5168FF" stop-opacity=".18"/><stop offset="1" stop-color="#5168FF" stop-opacity="0"/></radialGradient>
+ <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M42 0H0V42" fill="none" stroke="#47749F" stroke-width=".7" stroke-opacity=".20"/></pattern>
+ <filter id="soft"><feGaussianBlur stdDeviation="10"/></filter>
+ <clipPath id="rounded"><rect width="1440" height="440" rx="22"/></clipPath>
 </defs>
-<rect width="1280" height="380" rx="22" fill="url(#bg)"/><rect width="1280" height="380" rx="22" fill="url(#grid)"/>
-<ellipse cx="982" cy="184" rx="320" ry="240" fill="url(#glow)"/>
-<circle cx="1022" cy="175" r="111" fill="none" stroke="#3dddf5" stroke-width="1.4" opacity=".58"/>
-<circle cx="1022" cy="175" r="85" fill="none" stroke="#9989f9" stroke-dasharray="5 12" stroke-width="2"/>
-<circle cx="1022" cy="175" r="54" fill="none" stroke="#77e9ff" stroke-width="2" opacity=".9"/>
-<path d="M1022 55V295M902 175H1142M932 85L1112 265M1112 85L932 265" stroke="#4db8df" stroke-opacity=".28"/>
-<path d="M831 205h95l36-36h116l46-46h112M835 238h116l25 25h85l41-41h126M875 106h76l33 33h116l36-36h100" stroke="url(#neon)" stroke-width="2" fill="none" opacity=".84"/>
-<path d="M831 205h95l36-36h116l46-46h112" stroke="#6cf0ff" stroke-width="5" opacity=".25" filter="url(#bloom)" fill="none"/>
-<g fill="#8dedff"><circle cx="831" cy="205" r="4"/><circle cx="1078" cy="169" r="3.5"/><circle cx="1124" cy="123" r="4"/><circle cx="975" cy="263" r="3.5"/><circle cx="951" cy="106" r="3.5"/></g>
-<g font-family="monospace" fill="#6b9ab3" font-size="12" letter-spacing="2"><text x="68" y="63">T//  SYSTEM ONLINE</text><text x="1000" y="55">00 — 26</text><text x="68" y="342">BUILD  •  SHIP  •  ITERATE</text><text x="1080" y="339">[ OPEN ]</text></g>
-<path d="M68 87h42" stroke="#70f1ff" stroke-width="3"/>
-<text x="64" y="209" font-family="Arial,Helvetica,sans-serif" font-size="105" font-weight="800" letter-spacing="-5" fill="#7cf7ff" opacity=".28" filter="url(#bloom)">tapaixx</text>
-<text x="64" y="209" font-family="Arial,Helvetica,sans-serif" font-size="105" font-weight="800" letter-spacing="-5" fill="url(#neon)">tapaixx</text>
-<text x="70" y="258" font-family="Arial,Helvetica,sans-serif" font-size="22" fill="#d4e9fa" letter-spacing="2">ENGINEERING THE NEXT INTERFACE</text>
-<text x="70" y="293" font-family="monospace" font-size="14" fill="#92abc3">AI SYSTEMS   /   DEVELOPER TOOLS   /   NATIVE EXPERIENCES</text>
-<rect x="1" y="1" width="1278" height="378" rx="21" fill="none" stroke="#4e7fba" stroke-opacity=".45"/>
+<g clip-path="url(#rounded)">
+<rect width="1440" height="440" fill="url(#bg)"/>
+<rect width="1440" height="440" fill="url(#grid)"/>
+<ellipse cx="390" cy="220" rx="440" ry="340" fill="url(#glow)"/>
+<ellipse cx="1230" cy="155" rx="330" ry="290" fill="url(#glow)"/>
+<path d="M0 360H150L182 328H388L424 292H523 M952 394H1120L1152 362H1440 M1130 96H1224L1261 133H1440" stroke="#5FD7FC" stroke-width="2" opacity=".22" fill="none"/>
+<circle cx="1270" cy="212" r="156" stroke="#6B9EFF" stroke-width="1" stroke-dasharray="7 17" opacity=".23" fill="none"/>
+<circle cx="1270" cy="212" r="122" stroke="#8C65FB" stroke-width="1" opacity=".21" fill="none"/>
+<path d="M1270 42V382M1100 212H1440" stroke="#74E8FF" opacity=".08"/>
+<g font-family="monospace" font-size="12" letter-spacing="2" fill="#83ABC5"><text x="55" y="40">TAP// INITIALIZED</text><text x="1150" y="40">SYS : ONLINE</text><text x="55" y="409">BUILD  /  SHIP  /  ITERATE</text><text x="1247" y="409">v.01 / OPEN</text></g>
+<g transform="translate(72 38)">
+ <!-- Illuminated silhouette behind the monogram -->
+ <path d="M30 112H277L243 156H156V330L108 354V156H30L8 135Z M335 112H455Q519 112 527 177V207Q520 277 447 277H413L446 354H390L333 221Z M275 29L426 354H363L275 166L191 354H130Z" stroke="#44DFFF" stroke-width="16" opacity=".20" fill="none" filter="url(#soft)"/>
+ <!-- T: cyan angular wing -->
+ <path d="M30 112H277L243 156H156V330L108 354V156H30L8 135Z" fill="url(#metal)" stroke="#39EEFF" stroke-width="4" stroke-linejoin="bevel"/>
+ <path d="M32 130H230L218 142H141V307" stroke="#54F5FF" stroke-width="9" fill="none" stroke-linecap="square" stroke-linejoin="bevel"/>
+ <!-- P: magenta angular wing -->
+ <path d="M335 112H455Q519 112 527 177V207Q520 277 447 277H413L446 354H390L333 221Z M416 157V209H455L480 184L455 157Z" fill="url(#metal)" fill-rule="evenodd" stroke="#B462FF" stroke-width="4" stroke-linejoin="bevel"/>
+ <path d="M379 129H457L494 164L507 189L491 227L456 251H401" stroke="#B45BFF" stroke-width="8" opacity=".9" fill="none" stroke-linejoin="bevel"/>
+ <!-- A: central triangular blade -->
+ <path d="M275 29L426 354H363L275 166L191 354H130Z" fill="url(#metal)" stroke="url(#mark)" stroke-width="5" stroke-linejoin="miter"/>
+ <path d="M275 59L157 334" stroke="#31F4FF" stroke-width="10" opacity=".98"/>
+ <path d="M282 61L400 335" stroke="#C85DFF" stroke-width="8" opacity=".95"/>
+ <path d="M225 269H321L341 305H207Z" fill="#0C1830" stroke="url(#mark)" stroke-width="5"/>
+ <path d="M245 284H310" stroke="#76E9FF" stroke-width="5" opacity=".8"/>
+ <!-- bottom crystal -->
+ <path d="M274 319L323 357L274 398L225 357Z" fill="#0C1B35" stroke="url(#mark)" stroke-width="5"/>
+ <path d="M242 356L274 335L306 356" stroke="#4DD8FF" stroke-width="4" fill="none"/>
+</g>
+<path d="M573 133V314" stroke="url(#neon)" stroke-width="3" opacity=".8"/>
+<text x="615" y="237" font-family="Arial,Helvetica,sans-serif" font-weight="900" font-size="142" letter-spacing="-8" fill="#69D6FF" opacity=".25" filter="url(#soft)">tapaixx</text>
+<text x="615" y="237" font-family="Arial,Helvetica,sans-serif" font-weight="900" font-size="142" letter-spacing="-8" fill="url(#neon)" stroke="#A4D8FF" stroke-width=".7" paint-order="stroke">tapaixx</text>
+<text x="623" y="284" font-family="Arial,Helvetica,sans-serif" font-size="24" font-weight="700" letter-spacing="3" fill="#D5EFFF">ENGINEERING THE NEXT INTERFACE</text>
+<path d="M624 304H1230" stroke="url(#neon)" stroke-opacity=".65" stroke-width="2"/>
+<text x="625" y="340" font-family="monospace" font-size="17" letter-spacing="1.4" fill="#9EBCD7">AI SYSTEMS  /  DEVELOPER TOOLS  /  NATIVE APPS</text>
+<path d="M1 1H1439V439H1Z" fill="none" stroke="#81B6FF" stroke-opacity=".22" stroke-width="2"/>
+</g>
 </svg>
