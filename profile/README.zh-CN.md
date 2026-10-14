@@ -10,7 +10,7 @@
 
 <br /><br />
 
-**[English](https://github.com/tapaixx)** &nbsp;·&nbsp; **简体中文** &nbsp;·&nbsp; [日本語](./README.ja.md)
+**[English](https://github.com/tapaixx)** &nbsp;·&nbsp; **简体中文** &nbsp;·&nbsp; [繁體中文](./README.zh-TW.md) &nbsp;·&nbsp; [日本語](./README.ja.md)
 
 </div>
 
