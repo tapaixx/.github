@@ -2,6 +2,8 @@
 
 <img src="./assets/hero.svg" width="100%" alt="tapaixx — 打造下一代開發體驗" />
 
+<img src="./assets/tap-mark.svg" width="94" alt="TAP 標誌" />
+
 <br />
 
 **獨立開發 · 開放理念 · 打造真正實用的工具**
