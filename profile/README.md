@@ -2,6 +2,8 @@
 
 <img src="./assets/hero.svg" width="100%" alt="tapaixx — Engineering the next interface" />
 
+<img src="./assets/tap-mark.svg" width="94" alt="TAP emblem" />
+
 <br />
 
 **Independent engineering. Open ideas. Tools that move work forward.**
